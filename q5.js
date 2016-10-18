@@ -14,7 +14,9 @@
 
     if(!foo) {
         var foo = 2; //
+        let foo2 = foo + 2;
     }
 
     console.log(foo); //
+    console.log(foo2) //
 })();
