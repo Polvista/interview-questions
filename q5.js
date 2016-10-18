@@ -18,5 +18,5 @@
     }
 
     console.log(foo); //
-    console.log(foo2) //
+    console.log(foo2); //
 })();
