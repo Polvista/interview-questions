@@ -7,8 +7,7 @@ export class SomeComponent extends React.Component {
     render() {
         return (
             <div>
-                {this.someProp}
-                <button>Log</button>
+                <button onClick={this.onClick}>Log</button>
             </div>
         );
     }
