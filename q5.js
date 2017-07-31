@@ -13,7 +13,7 @@
     console.log(foo); //
 
     if(!foo) {
-        var foo = 2; //
+        var foo = 2;
         let foo2 = foo + 2;
     }
 
